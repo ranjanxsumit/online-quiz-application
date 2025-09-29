@@ -2,6 +2,13 @@
 
 A full-stack quiz experience where users can take a short trivia quiz, beat the timer, submit their answers, and instantly see how they did question-by-question.
 
+<img width="1762" height="847" alt="quiz" src="https://github.com/user-attachments/assets/250d9e82-a5e8-4132-ad24-5867eab39aef" />
+
+<img width="1577" height="862" alt="quiz-quest" src="https://github.com/user-attachments/assets/c10dd9cc-0f31-4cd6-ad86-2234ecfce091" />
+
+<img width="1282" height="872" alt="quiz-result" src="https://github.com/user-attachments/assets/a059a0d3-28be-4759-b7e6-9ce6c1d4e1a1" />
+
+
 ## Project Structure
 
 ```
@@ -77,3 +84,4 @@ Speaking from my point of view while building this project:
 - Add user authentication to track scores over time.
 - Support multiple quizzes with a catalog view.
 - Persist submissions so users can revisit past attempts.
+
